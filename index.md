@@ -13,7 +13,7 @@ layout: home
 
 <div class="audioplayer">
     <audio controls="controls" preload="none">
-        <source src="https://fm.teijuan.com/1" type="application/ogg">
+        <source src="http://fm.teijuan.com/1" type="application/ogg">
         </source>
     </audio>
 </div>
